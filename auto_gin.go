@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/94peter/api-toolkit/mid"
+	"github.com/muulinCorp/api-toolkit/mid"
 )
 
 func autoGinApiServer(cfg *Config) (*http.Server, error) {

@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	apitool "github.com/94peter/api-toolkit"
-	"github.com/94peter/api-toolkit/errors"
+	apitool "github.com/muulinCorp/api-toolkit"
+	"github.com/muulinCorp/api-toolkit/errors"
 	"github.com/gin-gonic/gin"
 )
 

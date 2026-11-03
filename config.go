@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/94peter/api-toolkit/auth"
-	"github.com/94peter/api-toolkit/errors"
-	"github.com/94peter/api-toolkit/mid"
+	"github.com/muulinCorp/api-toolkit/auth"
+	"github.com/muulinCorp/api-toolkit/errors"
+	"github.com/muulinCorp/api-toolkit/mid"
 	"github.com/go-session/session/v3"
 	"github.com/prometheus/client_golang/prometheus"
 )

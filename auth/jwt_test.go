@@ -3,7 +3,7 @@ package auth_test
 import (
 	"testing"
 
-	"github.com/94peter/api-toolkit/auth"
+	"github.com/muulinCorp/api-toolkit/auth"
 )
 
 func TestJwtConf_IsRsaKeysExist(t *testing.T) {

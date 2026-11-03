@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/94peter/api-toolkit/mid"
+	"github.com/muulinCorp/api-toolkit/mid"
 )
 
 type GinAuthMidInter interface {
